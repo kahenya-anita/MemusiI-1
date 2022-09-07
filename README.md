@@ -10,7 +10,7 @@ Learning GIT,CLI & HTML.
 ******
 
 ## SCREENSHOTS
-- link 1
+- ![Screenshot 2022-09-07 at 4 09 09 PM](https://user-images.githubusercontent.com/62019551/188886311-38d90e34-de2f-4091-b9be-200139140b1a.png)
 - link 2
 
 
