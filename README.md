@@ -37,7 +37,7 @@ Learning GIT,CLI & HTML.
 Or you can access the web application directly via this [LINK.](link.com/)
 *****
 ## Dependencies
-- Package Name
+- Github
 - Package Name
 - Package Name
 - Package Name
